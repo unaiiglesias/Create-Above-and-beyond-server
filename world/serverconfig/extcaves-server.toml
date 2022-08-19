@@ -1,18 +1,22 @@
 
 [Spawn_Conditions]
 
-	[Spawn_Conditions.Structures]
-		#
-		#Generate Cabins
-		gen_structure_cabins = true
-		#
-		#Generate Dungeons
-		gen_structure_dungeons = true
-
 	[Spawn_Conditions.Blocks]
 		#
-		#Generate Old Stone
-		gen_block_oldstone = true
+		#Generate Dirt
+		gen_block_dirt = true
+		#
+		#Generate Marlstone
+		gen_block_marlstone = true
+		#
+		#Generate Lavastone
+		gen_block_lavastone = true
+		#
+		#Generate Dirt Stone
+		gen_block_dirtstone = true
+		#
+		#Generate Packed Ice
+		gen_block_packed_ice = true
 		#
 		#Generate Broken Stone
 		gen_block_brokenstone = true
@@ -20,20 +24,13 @@
 		#Generate Sediment Stone
 		gen_block_sedimentstone = true
 		#
-		#Generate Lavastone
-		gen_block_lavastone = true
+		#Generate Old Stone
+		gen_block_oldstone = true
+
+	[Spawn_Conditions.Vines]
 		#
-		#Generate Dirt
-		gen_block_dirt = true
-		#
-		#Generate Dirt Stone
-		gen_block_dirtstone = true
-		#
-		#Generate Marlstone
-		gen_block_marlstone = true
-		#
-		#Generate Packed Ice
-		gen_block_packed_ice = true
+		#Generate Vines
+		gen_vines = true
 
 	[Spawn_Conditions.Mushrooms]
 		#
@@ -44,11 +41,6 @@
 		#
 		#Generate Mosses
 		gen_mosses = true
-
-	[Spawn_Conditions.Vines]
-		#
-		#Generate Vines
-		gen_vines = true
 
 	[Spawn_Conditions.Rocks]
 		#
@@ -67,55 +59,25 @@
 		#Generate Stalactites
 		gen_rock_stalactites = true
 
+	[Spawn_Conditions.Structures]
+		#
+		#Generate Cabins
+		gen_structure_cabins = true
+		#
+		#Generate Dungeons
+		gen_structure_dungeons = true
+
 [Spawn_Rates]
 
-	[Spawn_Rates.Structures]
-		#
-		#Oak Cabins Spawn Rate (default=7)
-		#Range: 1 ~ 10
-		spawnrate_structure_cabins_oak = 7
-		#
-		#Cobblestone Cabins Spawn Rate (default=7)
-		#Range: 1 ~ 10
-		spawnrate_structure_cabins_cobblestone = 7
-		#
-		#Bricks Cabins Spawn Rate (default=7)
-		#Range: 1 ~ 10
-		spawnrate_structure_cabins_bricks = 7
-		#
-		#Spruce Cabins Spawn Rate (default=7)
-		#Range: 1 ~ 10
-		spawnrate_structure_cabins_spruce = 7
-		#
-		#Jungle Cabins Spawn Rate (default=7)
-		#Range: 1 ~ 10
-		spawnrate_structure_cabins_jungle = 7
-		#
-		#Acacia Cabins Spawn Rate (default=7)
-		#Range: 1 ~ 10
-		spawnrate_structure_cabins_acacia = 7
-		#
-		#Cobblestone Dungeons Spawn Rate (default=5)
-		#Range: 1 ~ 10
-		spawnrate_structure_dungeons_cobblestone = 5
-		#
-		#Tall Cobblestone Dungeons Spawn Rate (default=5)
-		#Range: 1 ~ 10
-		spawnrate_structure_dungeons_tall_cobblestone = 5
-		#
-		#Ice Dungeons Spawn Rate (default=5)
-		#Range: 1 ~ 10
-		spawnrate_structure_dungeons_ice = 5
-		#
-		#Lavastone Dungeons Spawn Rate (default=5)
-		#Range: 1 ~ 10
-		spawnrate_structure_dungeons_lavastone = 5
-		#
-		#Tall Lavastone Dungeons Spawn Rate (default=5)
-		#Range: 1 ~ 10
-		spawnrate_structure_dungeons_tall_lavastone = 5
-
 	[Spawn_Rates.Blocks]
+		#
+		#Packed Ice Spawn Rate (default=5)
+		#Range: 1 ~ 50
+		spawnrate_block_packed_ice = 5
+		#
+		#Lavastone Spawn Rate (default=10)
+		#Range: 1 ~ 50
+		spawnrate_block_lavastone = 8
 		#
 		#Old Stone Spawn Rate (default=10)
 		#Range: 1 ~ 50
@@ -125,18 +87,6 @@
 		#Range: 1 ~ 50
 		spawnrate_block_brokenstone = 12
 		#
-		#Sediment Stone Spawn Rate (default=10)
-		#Range: 1 ~ 50
-		spawnrate_block_sedimentstone = 8
-		#
-		#Lavastone Spawn Rate (default=10)
-		#Range: 1 ~ 50
-		spawnrate_block_lavastone = 8
-		#
-		#Dirt Spawn Rate (default=5)
-		#Range: 1 ~ 50
-		spawnrate_block_dirt = 5
-		#
 		#Dirt Stone Spawn Rate (default=5)
 		#Range: 1 ~ 50
 		spawnrate_block_dirtstone = 5
@@ -145,15 +95,25 @@
 		#Range: 1 ~ 50
 		spawnrate_block_marlstone = 5
 		#
-		#Packed Ice Spawn Rate (default=5)
+		#Sediment Stone Spawn Rate (default=10)
 		#Range: 1 ~ 50
-		spawnrate_block_packed_ice = 5
+		spawnrate_block_sedimentstone = 8
+		#
+		#Dirt Spawn Rate (default=5)
+		#Range: 1 ~ 50
+		spawnrate_block_dirt = 5
+
+	[Spawn_Rates.Vines]
+		#
+		#Cave Vine Spawn Rate (default=10)
+		#Range: 1 ~ 50
+		spawnrate_cave_vine = 10
 
 	[Spawn_Rates.Mushrooms]
 		#
-		#Sweetshroom Spawn Rate (default=10)
+		#Lumishroom Spawn Rate (default=10)
 		#Range: 1 ~ 50
-		spawnrate_mushroom_sweetshroom = 10
+		spawnrate_mushroom_lumishroom = 10
 		#
 		#Goldishroom Spawn Rate (default=10)
 		#Range: 1 ~ 50
@@ -163,13 +123,13 @@
 		#Range: 1 ~ 50
 		spawnrate_mushroom_shinyshroom = 10
 		#
-		#Lumishroom Spawn Rate (default=10)
-		#Range: 1 ~ 50
-		spawnrate_mushroom_lumishroom = 10
-		#
 		#Fluoshroom Spawn Rate (default=10)
 		#Range: 1 ~ 50
 		spawnrate_mushroom_fluoshroom = 10
+		#
+		#Sweetshroom Spawn Rate (default=10)
+		#Range: 1 ~ 50
+		spawnrate_mushroom_sweetshroom = 10
 		#
 		#Rockshroom Spawn Rate (default=10)
 		#Range: 1 ~ 50
@@ -177,41 +137,27 @@
 
 	[Spawn_Rates.Mosses]
 		#
-		#Dry Moss Spawn Rate (default=10)
-		#Range: 1 ~ 50
-		spawnrate_moss_dry = 10
-		#
 		#Fire Moss Spawn Rate (default=10)
 		#Range: 1 ~ 50
 		spawnrate_moss_fire = 10
-		#
-		#Frozen Moss Spawn Rate (default=10)
-		#Range: 1 ~ 50
-		spawnrate_moss_frozen = 10
 		#
 		#Hanging Roots Spawn Rate (default=10)
 		#Range: 1 ~ 50
 		spawnrate_moss_hanging_roots = 10
 		#
+		#Frozen Moss Spawn Rate (default=10)
+		#Range: 1 ~ 50
+		spawnrate_moss_frozen = 10
+		#
+		#Dry Moss Spawn Rate (default=10)
+		#Range: 1 ~ 50
+		spawnrate_moss_dry = 10
+		#
 		#Humid Moss Spawn Rate (default=10)
 		#Range: 1 ~ 50
 		spawnrate_moss_humid = 10
 
-	[Spawn_Rates.Vines]
-		#
-		#Cave Vine Spawn Rate (default=10)
-		#Range: 1 ~ 50
-		spawnrate_cave_vine = 10
-
 	[Spawn_Rates.Rocks]
-		#
-		#Flint Spawn Rate (default=10)
-		#Range: 1 ~ 50
-		spawnrate_rock_flints = 10
-		#
-		#Pebble Spawn Rate (default=10)
-		#Range: 1 ~ 50
-		spawnrate_rock_pebbles = 10
 		#
 		#Rock Piles Spawn Rate (default=10)
 		#Range: 1 ~ 50
@@ -221,23 +167,69 @@
 		#Range: 1 ~ 50
 		spawnrate_rock_stalagmites = 10
 		#
+		#Pebble Spawn Rate (default=10)
+		#Range: 1 ~ 50
+		spawnrate_rock_pebbles = 10
+		#
+		#Flint Spawn Rate (default=10)
+		#Range: 1 ~ 50
+		spawnrate_rock_flints = 10
+		#
 		#Stalactite Spawn Rate (default=10)
 		#Range: 1 ~ 50
 		spawnrate_rock_stalactites = 10
 
+	[Spawn_Rates.Structures]
+		#
+		#Spruce Cabins Spawn Rate (default=7)
+		#Range: 1 ~ 10
+		spawnrate_structure_cabins_spruce = 7
+		#
+		#Ice Dungeons Spawn Rate (default=5)
+		#Range: 1 ~ 10
+		spawnrate_structure_dungeons_ice = 5
+		#
+		#Cobblestone Dungeons Spawn Rate (default=5)
+		#Range: 1 ~ 10
+		spawnrate_structure_dungeons_cobblestone = 5
+		#
+		#Lavastone Dungeons Spawn Rate (default=5)
+		#Range: 1 ~ 10
+		spawnrate_structure_dungeons_lavastone = 5
+		#
+		#Oak Cabins Spawn Rate (default=7)
+		#Range: 1 ~ 10
+		spawnrate_structure_cabins_oak = 7
+		#
+		#Tall Cobblestone Dungeons Spawn Rate (default=5)
+		#Range: 1 ~ 10
+		spawnrate_structure_dungeons_tall_cobblestone = 5
+		#
+		#Bricks Cabins Spawn Rate (default=7)
+		#Range: 1 ~ 10
+		spawnrate_structure_cabins_bricks = 7
+		#
+		#Jungle Cabins Spawn Rate (default=7)
+		#Range: 1 ~ 10
+		spawnrate_structure_cabins_jungle = 7
+		#
+		#Tall Lavastone Dungeons Spawn Rate (default=5)
+		#Range: 1 ~ 10
+		spawnrate_structure_dungeons_tall_lavastone = 5
+		#
+		#Acacia Cabins Spawn Rate (default=7)
+		#Range: 1 ~ 10
+		spawnrate_structure_cabins_acacia = 7
+		#
+		#Cobblestone Cabins Spawn Rate (default=7)
+		#Range: 1 ~ 10
+		spawnrate_structure_cabins_cobblestone = 7
+
 [Patches_Sizes]
 	#
-	#Old Stone Patches Size (default=40)
+	#Dirt Stone Patches Size (default=60)
 	#Range: 1 ~ 100
-	patch_size_oldstone = 40
-	#
-	#Broken Stone Patches Size (default=24)
-	#Range: 1 ~ 100
-	patch_size_brokenstone = 24
-	#
-	#Sediment Stone Patches Size (default=40)
-	#Range: 1 ~ 100
-	patch_size_sedimentstone = 40
+	patch_size_dirtstone = 60
 	#
 	#Lavastone Patches Size (default=40)
 	#Range: 1 ~ 100
@@ -247,13 +239,21 @@
 	#Range: 1 ~ 100
 	patch_size_dirt = 40
 	#
-	#Dirt Stone Patches Size (default=60)
+	#Broken Stone Patches Size (default=24)
 	#Range: 1 ~ 100
-	patch_size_dirtstone = 60
+	patch_size_brokenstone = 24
+	#
+	#Sediment Stone Patches Size (default=40)
+	#Range: 1 ~ 100
+	patch_size_sedimentstone = 40
 	#
 	#Marlstone Patches Size (default=40)
 	#Range: 1 ~ 100
 	patch_size_marlstone = 60
+	#
+	#Old Stone Patches Size (default=40)
+	#Range: 1 ~ 100
+	patch_size_oldstone = 40
 	#
 	#Packed Ice Patches Size (default=60)
 	#Range: 1 ~ 100
@@ -261,11 +261,11 @@
 
 [Items]
 	#
-	#Healing items cooldown in seconds (default=5)
-	#Range: 1 ~ 30
-	item_medecine_cooldown = 5
-	#
 	#Health amount given by the bandage (1 = half heart) (default=4)
 	#Range: 1 ~ 40
 	item_bandage_health = 4
+	#
+	#Healing items cooldown in seconds (default=5)
+	#Range: 1 ~ 30
+	item_medecine_cooldown = 5
 

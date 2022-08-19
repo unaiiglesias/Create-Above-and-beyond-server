@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2022-08-19 12:31:50 +0200"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "gravel_beach": "2022-08-19 12:31:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-08-19 12:31:50 +0200"
     },
     "done": true
   },
