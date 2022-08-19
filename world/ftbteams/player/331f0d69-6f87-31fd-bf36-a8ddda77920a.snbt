@@ -1,0 +1,19 @@
+{
+	id: "331f0d69-6f87-31fd-bf36-a8ddda77920a"
+	type: "player"
+	player_name: "XtrikeGamer55"
+	ranks: {
+		331f0d69-6f87-31fd-bf36-a8ddda77920a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "XtrikeGamer55"
+		"ftbteams:color": "#FF59AE"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
