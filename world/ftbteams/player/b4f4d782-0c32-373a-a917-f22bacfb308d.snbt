@@ -1,0 +1,19 @@
+{
+	id: "b4f4d782-0c32-373a-a917-f22bacfb308d"
+	type: "player"
+	player_name: "Chaaaveeess"
+	ranks: {
+		b4f4d782-0c32-373a-a917-f22bacfb308d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Chaaaveeess"
+		"ftbteams:color": "#59FFEF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
