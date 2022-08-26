@@ -1,0 +1,19 @@
+{
+	id: "cd09177d-4d1d-30f2-b62d-d21f1f319be0"
+	type: "player"
+	player_name: "konex12345"
+	ranks: {
+		cd09177d-4d1d-30f2-b62d-d21f1f319be0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "konex12345"
+		"ftbteams:color": "#59C5FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

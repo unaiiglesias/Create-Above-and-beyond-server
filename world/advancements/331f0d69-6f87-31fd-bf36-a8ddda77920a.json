@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_cobblestone_slab_from_diorite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_diorite_cobblestone": "2022-08-26 01:32:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2022-08-19 12:31:50 +0200"
@@ -254,6 +260,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2022-08-24 18:53:02 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_cobblestone_wall": {
+    "criteria": {
+      "has_diorite_cobblestone": "2022-08-26 01:32:03 +0200"
     },
     "done": true
   },
@@ -1080,6 +1092,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_diorite_cobblestone": "2022-08-26 01:32:03 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_plank": "2022-08-24 18:52:47 +0200"
@@ -1465,6 +1483,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_cobblestone_slab": {
+    "criteria": {
+      "has_diorite_cobblestone": "2022-08-26 01:32:03 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/raw_pasta_from_water": {
     "criteria": {
       "has_wheat": "2022-08-24 23:29:36 +0200"
@@ -1569,6 +1593,7 @@
       "cooked_cod": "2022-08-24 19:15:10 +0200",
       "suspicious_stew": "2022-08-24 19:34:39 +0200",
       "dried_kelp": "2022-08-24 19:49:16 +0200",
+      "cooked_chicken": "2022-08-26 01:33:21 +0200",
       "cooked_salmon": "2022-08-24 19:54:55 +0200",
       "carrot": "2022-08-24 18:51:12 +0200"
     },
@@ -1748,6 +1773,24 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_cobblestone_stairs": {
+    "criteria": {
+      "has_diorite_cobblestone": "2022-08-26 01:32:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2022-08-26 01:49:35 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2022-08-26 01:59:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-24 19:51:28 +0200"
@@ -1886,6 +1929,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2022-08-26 01:59:05 +0200"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/dark_oak_seat": {
     "criteria": {
       "has_plank": "2022-08-24 19:51:28 +0200"
@@ -2003,6 +2052,12 @@
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2022-08-24 19:34:39 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_cobblestone_wall_from_diorite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_diorite_cobblestone": "2022-08-26 01:32:03 +0200"
     },
     "done": true
   },
@@ -2278,6 +2333,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 19:07:50 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_cobblestone_stairs_from_diorite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_diorite_cobblestone": "2022-08-26 01:32:03 +0200"
     },
     "done": true
   },
@@ -2614,6 +2675,12 @@
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_string": "2022-08-24 19:49:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-08-26 01:49:35 +0200"
     },
     "done": true
   },
