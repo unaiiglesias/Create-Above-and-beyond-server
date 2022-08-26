@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2022-08-26 14:03:20 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2022-08-24 19:11:48 +0200"
@@ -425,6 +431,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2022-08-24 19:45:23 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/blacksmith_gavel_head": {
+    "criteria": {
+      "has_item": "2022-08-26 14:03:20 +0200"
     },
     "done": true
   },
@@ -813,6 +825,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
       "has_item": "2022-08-24 19:55:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-08-26 14:03:20 +0200"
     },
     "done": true
   },
@@ -1459,6 +1477,12 @@
     },
     "done": true
   },
+  "extcaves:recipes/clay_lump": {
+    "criteria": {
+      "has_item": "2022-08-26 14:03:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2022-08-24 19:45:23 +0200"
@@ -1884,6 +1908,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 19:07:50 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2022-08-26 14:03:20 +0200"
     },
     "done": true
   },
