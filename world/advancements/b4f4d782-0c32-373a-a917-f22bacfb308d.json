@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2022-08-31 00:12:16 +0200"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2022-08-26 15:31:44 +0200"
@@ -182,6 +188,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-27 19:03:34 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2022-08-31 00:12:38 +0200"
     },
     "done": true
   },
@@ -561,6 +573,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2022-08-26 14:58:01 +0200"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2022-08-31 00:28:44 +0200"
     },
     "done": true
   },
@@ -1276,6 +1294,12 @@
     },
     "done": true
   },
+  "create:mechanical_drill": {
+    "criteria": {
+      "0": "2022-08-31 00:26:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-08-24 19:06:01 +0200"
@@ -1966,6 +1990,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/xreliquary/shears_of_winter": {
+    "criteria": {
+      "has_frozen_core": "2022-08-31 00:12:38 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "has_item": "2022-08-26 14:13:10 +0200"
@@ -2110,6 +2140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2022-08-31 01:16:57 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2022-08-24 19:17:02 +0200"
@@ -2194,6 +2230,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2022-08-31 00:11:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-24 18:59:21 +0200"
@@ -2263,6 +2305,12 @@
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2022-08-24 19:06:01 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/building_blocks/uncrafting/packed_ice": {
+    "criteria": {
+      "has_frozen_core": "2022-08-31 00:12:38 +0200"
     },
     "done": true
   },
@@ -3366,6 +3414,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/misc/uncrafting/snowball": {
+    "criteria": {
+      "has_frozen_core": "2022-08-31 00:12:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-08-24 19:11:57 +0200"
@@ -3441,6 +3495,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2022-08-26 16:49:42 +0200"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2022-08-31 01:07:04 +0200"
     },
     "done": true
   },
@@ -3521,6 +3581,12 @@
   "create:recipes/building_blocks/blasting/ingot_lead_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2022-08-26 15:19:13 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2022-08-31 00:12:38 +0200"
     },
     "done": true
   },
@@ -3620,6 +3686,18 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2022-08-31 00:16:22 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/ice_magus_rod": {
+    "criteria": {
+      "has_frozen_core": "2022-08-31 00:12:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 19:46:32 +0200"
@@ -3641,6 +3719,12 @@
   "extcaves:caves/root": {
     "criteria": {
       "item_to_find": "2022-08-28 20:21:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2022-08-31 01:16:57 +0200"
     },
     "done": true
   },
@@ -3779,6 +3863,12 @@
   "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2022-08-26 15:31:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-08-31 00:22:37 +0200"
     },
     "done": true
   },

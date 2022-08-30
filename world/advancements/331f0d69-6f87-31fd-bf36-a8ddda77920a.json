@@ -746,6 +746,12 @@
     },
     "done": true
   },
+  "create:mechanical_drill": {
+    "criteria": {
+      "0": "2022-08-31 00:11:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2022-08-24 19:22:13 +0200"
@@ -1085,6 +1091,12 @@
   "create:recipes/food/campfire_cooking/bread": {
     "criteria": {
       "has_item": "2022-08-29 23:03:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-08-31 00:12:40 +0200"
     },
     "done": true
   },
@@ -1493,6 +1505,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2022-08-31 01:28:49 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_oak": {
     "criteria": {
       "has_plank": "2022-08-24 18:52:47 +0200"
@@ -1610,6 +1628,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2022-08-24 19:49:05 +0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2022-08-31 00:08:50 +0200"
     },
     "done": true
   },
@@ -2099,6 +2123,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2022-08-31 00:12:36 +0200"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/sanity_meter": {
     "criteria": {
       "has_item": "2022-08-24 19:55:36 +0200"
@@ -2358,6 +2388,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2022-08-31 01:28:49 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_cobblestone_wall_from_andesite_cobblestone_stonecutting": {
     "criteria": {
       "has_andesite_cobblestone": "2022-08-24 18:59:19 +0200"
@@ -2562,6 +2598,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2022-08-31 00:12:17 +0200"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2022-08-30 00:28:45 +0200"
@@ -2667,6 +2709,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-30 01:26:10 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2022-08-31 00:12:36 +0200"
     },
     "done": true
   },
@@ -3332,6 +3380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2022-08-31 00:50:57 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2022-08-30 23:17:02 +0200"
@@ -3699,6 +3753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2022-08-31 00:08:50 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2022-08-24 19:55:36 +0200"
@@ -3937,6 +3997,7 @@
     "criteria": {
       "cooked_mutton": "2022-08-24 20:10:44 +0200",
       "cooked_beef": "2022-08-24 19:22:03 +0200",
+      "baked_potato": "2022-08-31 01:28:52 +0200",
       "tropical_fish": "2022-08-24 19:09:47 +0200",
       "cooked_cod": "2022-08-24 19:15:10 +0200",
       "suspicious_stew": "2022-08-24 19:34:39 +0200",

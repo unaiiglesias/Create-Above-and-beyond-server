@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2022-08-31 00:26:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-08-24 19:46:56 +0200"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2022-08-31 00:45:13 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2022-08-24 19:22:26 +0200"
@@ -400,9 +412,16 @@
       "golden_prairie": "2022-08-24 19:42:13 +0200",
       "prairie": "2022-08-24 19:41:33 +0200",
       "gravel_beach": "2022-08-24 18:48:59 +0200",
-      "grove": "2022-08-24 19:29:44 +0200"
+      "grove": "2022-08-24 19:29:44 +0200",
+      "undergrowth": "2022-08-31 00:42:58 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-08-31 00:32:05 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
@@ -631,6 +650,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 19:04:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-08-31 00:38:09 +0200"
     },
     "done": true
   },
@@ -1135,6 +1160,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2022-08-31 00:42:38 +0200"
+    },
+    "done": false
+  },
   "fairylights:recipes/fairylights/skull_light": {
     "criteria": {
       "has_iron": "2022-08-24 19:46:56 +0200"
@@ -1252,6 +1283,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-08-26 16:00:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-08-31 00:42:37 +0200"
     },
     "done": true
   },
@@ -1733,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-08-31 00:38:09 +0200"
+    },
+    "done": true
+  },
   "architects_palette:main/root": {
     "criteria": {
       "craftingtable": "2022-08-24 18:52:25 +0200"
@@ -1745,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-08-31 00:42:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-24 19:34:46 +0200"
@@ -1754,6 +1803,12 @@
   "xreliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
     "criteria": {
       "has_witch_hat": "2022-08-24 19:58:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-08-31 00:38:09 +0200"
     },
     "done": true
   },
@@ -2208,6 +2263,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2022-08-31 01:16:01 +0200"
+    },
+    "done": true
+  },
   "xreliquary:recipes/redstone/uncrafting/redstone": {
     "criteria": {
       "has_witch_hat": "2022-08-24 19:58:54 +0200"
@@ -2250,6 +2311,12 @@
     },
     "done": true
   },
+  "create:fan_water": {
+    "criteria": {
+      "0": "2022-08-31 00:42:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-08-24 19:22:26 +0200"
@@ -2277,6 +2344,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2022-08-24 19:40:15 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2022-08-31 00:16:33 +0200"
     },
     "done": true
   },
