@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-08-30 23:46:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-08-24 18:57:50 +0200"
@@ -326,6 +332,12 @@
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2022-08-24 19:52:29 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_stairs": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2022-08-30 23:33:47 +0200"
     },
     "done": true
   },
@@ -480,9 +492,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro_cobblestone_wall": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2022-08-30 23:33:47 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/obsidian_skull": {
+    "criteria": {
+      "has_item": "2022-08-30 23:40:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2022-08-24 19:07:47 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/lavastone_slab_from_lavastone_stonecutting": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:33 +0200"
     },
     "done": true
   },
@@ -647,7 +677,8 @@
       "golden_prairie": "2022-08-24 19:41:42 +0200",
       "prairie": "2022-08-24 19:39:06 +0200",
       "gravel_beach": "2022-08-24 18:53:09 +0200",
-      "grove": "2022-08-26 16:48:53 +0200"
+      "grove": "2022-08-26 16:48:53 +0200",
+      "undergrowth": "2022-08-30 23:45:39 +0200"
     },
     "done": false
   },
@@ -705,6 +736,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-08-30 23:32:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-24 18:59:21 +0200"
@@ -720,6 +757,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2022-08-24 19:12:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_slab_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2022-08-30 23:33:47 +0200"
     },
     "done": true
   },
@@ -767,6 +810,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2022-08-30 23:46:18 +0200",
       "earth": "2022-08-24 19:17:02 +0200"
     },
     "done": false
@@ -792,6 +836,12 @@
   "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
     "criteria": {
       "has_item": "2022-08-24 19:06:01 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/lavastone_stairs_from_lavastone_stonecutting": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:33 +0200"
     },
     "done": true
   },
@@ -828,6 +878,12 @@
   "xreliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
     "criteria": {
       "has_catalyzing_gland": "2022-08-28 19:56:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2022-08-30 23:46:36 +0200"
     },
     "done": true
   },
@@ -900,6 +956,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-08-26 15:01:51 +0200",
+      "minecraft:magma_cube": "2022-08-30 23:46:00 +0200",
       "minecraft:spider": "2022-08-24 19:23:43 +0200",
       "minecraft:creeper": "2022-08-26 15:46:54 +0200",
       "minecraft:zombie": "2022-08-24 18:56:35 +0200"
@@ -1411,6 +1468,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2022-08-30 23:46:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2022-08-24 19:55:57 +0200"
@@ -1420,6 +1483,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-08-24 19:23:45 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/polished_lavastone": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:33 +0200"
     },
     "done": true
   },
@@ -1504,6 +1573,12 @@
   "cb_microblock:recipes/misc/stone_rod": {
     "criteria": {
       "has_cobble": "2022-08-24 18:59:21 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/pebble_lavastone": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:33 +0200"
     },
     "done": true
   },
@@ -1636,6 +1711,12 @@
   "create:recipes/building_blocks/blasting/lead_ingot_compat_eidolon": {
     "criteria": {
       "has_item": "2022-08-26 15:19:13 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/magma_cream": {
+    "criteria": {
+      "has_plank": "2022-08-30 23:46:18 +0200"
     },
     "done": true
   },
@@ -1981,6 +2062,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2022-08-30 23:45:15 +0200"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2022-08-24 19:06:01 +0200"
@@ -2056,6 +2143,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2022-08-24 19:57:53 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_stairs_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2022-08-30 23:33:47 +0200"
     },
     "done": true
   },
@@ -2158,6 +2251,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2022-08-24 19:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-08-30 23:45:15 +0200"
     },
     "done": true
   },
@@ -2457,6 +2556,12 @@
     },
     "done": true
   },
+  "extcaves:recipes/polished_lavastone_slab_from_polished_lavastone_stonecutting": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:51 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2022-08-24 19:17:02 +0200"
@@ -2715,6 +2820,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro_cobblestone_slab": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2022-08-30 23:33:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2022-08-27 19:28:00 +0200"
@@ -2874,6 +2985,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout": {
     "criteria": {
       "has_item": "2022-08-26 14:58:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-08-30 23:40:19 +0200"
     },
     "done": true
   },
@@ -3069,6 +3186,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-08-30 23:45:15 +0200"
+    },
+    "done": true
+  },
   "xreliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
     "criteria": {
       "has_witch_hat": "2022-08-24 19:44:52 +0200"
@@ -3246,6 +3369,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-08-24 19:11:57 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/polished_lavastone_stairs_from_polished_lavastone_stonecutting": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:51 +0200"
     },
     "done": true
   },
@@ -3443,6 +3572,12 @@
     },
     "done": true
   },
+  "extcaves:recipes/lavastone_stairs": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-27 19:03:34 +0200"
@@ -3524,6 +3659,12 @@
   "create:recipes/create.base/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2022-08-26 21:46:46 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/polished_lavastone_stairs": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:51 +0200"
     },
     "done": true
   },
@@ -3647,6 +3788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2022-08-30 23:46:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-08-24 18:55:50 +0200"
@@ -3671,6 +3818,12 @@
     },
     "done": true
   },
+  "extcaves:recipes/polished_lavastone_slab": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-08-27 19:53:41 +0200"
@@ -3686,6 +3839,18 @@
   "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
     "criteria": {
       "has_item": "2022-08-24 19:18:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-08-30 23:40:19 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2022-08-30 23:33:47 +0200"
     },
     "done": true
   },
@@ -3716,6 +3881,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-08-27 19:35:50 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/lavastone_slab": {
+    "criteria": {
+      "has_item": "2022-08-30 23:39:33 +0200"
     },
     "done": true
   },
@@ -3782,6 +3953,12 @@
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2022-08-26 16:14:09 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_wall_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2022-08-30 23:33:47 +0200"
     },
     "done": true
   },
