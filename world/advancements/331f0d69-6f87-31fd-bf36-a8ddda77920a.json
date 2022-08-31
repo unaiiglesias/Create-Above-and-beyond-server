@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2022-08-31 21:51:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2022-08-24 19:30:55 +0200"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:44:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2022-08-26 20:38:08 +0200"
@@ -209,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-08-31 20:48:07 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
     "criteria": {
       "has_vine": "2022-08-26 21:07:22 +0200"
@@ -224,6 +242,12 @@
   "fairylights:recipes/fairylights/tinsel_garland": {
     "criteria": {
       "has_iron": "2022-08-24 19:04:34 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },
@@ -330,6 +354,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2022-08-31 21:51:59 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/greenheart/log_to_wood": {
     "criteria": {
       "has_log": "2022-08-24 19:55:36 +0200"
@@ -423,6 +453,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2022-08-30 23:37:19 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:44:05 +0200"
     },
     "done": true
   },
@@ -613,9 +649,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2022-08-26 20:54:38 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2022-08-31 20:48:07 +0200"
     },
     "done": true
   },
@@ -694,6 +742,12 @@
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2022-08-26 20:51:24 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },
@@ -809,6 +863,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-30 01:26:10 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2022-08-31 20:48:07 +0200"
     },
     "done": true
   },
@@ -1040,6 +1100,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_plank": "2022-08-24 18:52:47 +0200"
@@ -1172,6 +1238,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_slab": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2022-08-31 20:44:24 +0200"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/icicle_lights": {
     "criteria": {
       "has_iron": "2022-08-24 19:04:34 +0200"
@@ -1204,6 +1276,12 @@
       "minecraft:basalt_deltas": "2022-08-29 23:47:00 +0200"
     },
     "done": false
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2022-08-31 21:22:00 +0200"
+    },
+    "done": true
   },
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
@@ -1283,6 +1361,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_slab_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2022-08-31 20:44:24 +0200"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/rocky_dirt": {
     "criteria": {
       "has_dirt": "2022-08-24 18:52:38 +0200"
@@ -1322,6 +1406,12 @@
   "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2022-08-30 01:26:10 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2022-08-31 21:51:59 +0200"
     },
     "done": true
   },
@@ -1469,9 +1559,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2022-08-31 21:22:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2022-08-29 23:20:28 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2022-08-31 21:22:00 +0200"
     },
     "done": true
   },
@@ -1502,6 +1604,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 19:55:36 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:44:05 +0200"
     },
     "done": true
   },
@@ -1663,7 +1771,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2022-08-26 01:49:35 +0200"
+      "minecraft:cow": "2022-08-26 01:49:35 +0200",
+      "minecraft:chicken": "2022-08-31 21:44:07 +0200"
     },
     "done": false
   },
@@ -1859,6 +1968,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2022-08-31 21:51:59 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2022-08-19 12:31:50 +0200"
@@ -1985,6 +2100,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_stairs_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2022-08-31 20:44:24 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "has_plank": "2022-08-24 19:04:34 +0200"
@@ -2039,6 +2160,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:44:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 19:55:36 +0200"
@@ -2074,6 +2201,12 @@
       "0": "2022-08-30 00:53:38 +0200"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "roast_chicken": "2022-08-31 20:53:17 +0200"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
@@ -2159,6 +2292,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2022-08-31 21:22:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2022-08-24 19:11:38 +0200"
@@ -2192,6 +2331,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2022-08-30 00:27:13 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },
@@ -2370,6 +2515,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2022-08-24 19:53:14 +0200"
@@ -2385,6 +2536,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2022-08-24 18:52:50 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },
@@ -2490,6 +2647,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourished": "2022-08-31 20:53:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2022-08-26 20:52:45 +0200"
@@ -2559,6 +2722,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-30 01:26:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_wall_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2022-08-31 20:44:24 +0200"
     },
     "done": true
   },
@@ -2766,6 +2935,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:44:05 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice_bag": {
     "criteria": {
       "has_rice": "2022-08-24 19:35:12 +0200"
@@ -2793,6 +2968,12 @@
   "supplementaries:recipes/candelabra": {
     "criteria": {
       "has_item": "2022-08-24 19:55:36 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },
@@ -2865,6 +3046,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-29 23:52:47 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2022-08-31 21:51:59 +0200"
     },
     "done": true
   },
@@ -3006,6 +3193,12 @@
     },
     "done": false
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2022-08-31 21:22:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2022-08-29 23:55:07 +0200"
@@ -3015,6 +3208,12 @@
   "farmersdelight:recipes/farmersdelight/canvas": {
     "criteria": {
       "has_straw": "2022-08-30 01:19:22 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake": {
+    "criteria": {
+      "has_plank": "2022-08-31 20:48:07 +0200"
     },
     "done": true
   },
@@ -3051,6 +3250,18 @@
   "create:recipes/create.palettes/gabbro_cobblestone_slab_from_gabbro_cobblestone_stonecutting": {
     "criteria": {
       "has_gabbro_cobblestone": "2022-08-30 01:27:54 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "roast_chicken": "2022-08-31 20:50:35 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-08-31 21:51:59 +0200"
     },
     "done": true
   },
@@ -3266,6 +3477,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2022-08-31 21:51:59 +0200"
+    },
+    "done": true
+  },
   "xreliquary:recipes/misc/uncrafting/sugar": {
     "criteria": {
       "has_witch_hat": "2022-08-27 19:16:32 +0200"
@@ -3365,6 +3582,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2022-08-30 01:26:10 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },
@@ -3518,6 +3741,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "logic": "2022-08-31 20:44:05 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "has_item": "2022-08-24 18:52:47 +0200"
@@ -3662,6 +3891,12 @@
       "minecraft:plains": "2022-08-24 19:30:33 +0200"
     },
     "done": false
+  },
+  "create:recipes/create.palettes/weathered_limestone": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2022-08-31 20:44:24 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
@@ -3873,6 +4108,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-24 18:53:02 +0200"
@@ -3882,6 +4123,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2022-08-27 19:23:35 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-08-31 21:51:59 +0200"
     },
     "done": true
   },
@@ -3963,6 +4210,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2022-08-29 23:50:56 +0200"
@@ -3972,6 +4225,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2022-08-26 20:51:41 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_wall": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2022-08-31 20:44:24 +0200"
     },
     "done": true
   },
@@ -4087,6 +4346,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_plank": "2022-08-31 21:22:00 +0200"
+    },
+    "done": true
+  },
+  "create:fan_lava": {
+    "criteria": {
+      "0": "2022-08-31 21:27:15 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/blasting/ingot_nickel_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2022-08-24 19:45:56 +0200"
@@ -4144,6 +4415,12 @@
   "create:recipes/create.palettes/diorite_cobblestone_stairs": {
     "criteria": {
       "has_diorite_cobblestone": "2022-08-26 01:32:03 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2022-08-31 20:48:07 +0200"
     },
     "done": true
   },
@@ -4216,6 +4493,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-08-24 19:11:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_stairs": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2022-08-31 20:44:24 +0200"
     },
     "done": true
   },
@@ -4315,6 +4598,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2022-08-26 20:51:24 +0200"
@@ -4387,6 +4676,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2022-08-31 21:51:59 +0200"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/ghost_light": {
     "criteria": {
       "has_iron": "2022-08-24 19:04:34 +0200"
@@ -4432,6 +4727,12 @@
   "create:belt": {
     "criteria": {
       "0": "2022-08-26 21:18:43 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:44:05 +0200"
     },
     "done": true
   },
@@ -4640,6 +4941,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2022-08-26 20:51:41 +0200"
@@ -4658,9 +4965,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-08-31 21:51:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-08-24 18:52:50 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },
@@ -4781,6 +5100,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2022-08-26 20:51:41 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },
@@ -4913,6 +5238,12 @@
   "xreliquary:recipes/misc/uncrafting/string": {
     "criteria": {
       "has_chelicerae": "2022-08-26 20:38:08 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2022-08-31 21:26:44 +0200"
     },
     "done": true
   },

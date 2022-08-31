@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:38:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2022-08-24 18:57:48 +0200"
@@ -326,6 +332,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2022-08-24 19:19:48 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:38:58 +0200"
     },
     "done": true
   },
@@ -392,6 +404,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2022-08-24 18:54:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-08-31 20:40:44 +0200"
     },
     "done": true
   },
@@ -688,9 +706,14 @@
     "criteria": {
       "deep_bayou": "2022-08-24 19:39:02 +0200",
       "bayou_mangrove": "2022-08-24 19:33:28 +0200",
+      "scrubland": "2022-08-31 21:15:38 +0200",
       "shroomy_wetland": "2022-08-24 19:15:42 +0200",
       "wetland_forest": "2022-08-24 18:57:08 +0200",
+      "lush_savanna": "2022-08-31 21:13:28 +0200",
+      "grove_clearing": "2022-08-31 20:40:59 +0200",
       "wetland": "2022-08-24 18:57:28 +0200",
+      "wooded_scrubland": "2022-08-31 21:15:36 +0200",
+      "lush_desert": "2022-08-31 21:12:56 +0200",
       "grove_lakes": "2022-08-24 19:40:25 +0200",
       "golden_prairie": "2022-08-24 19:41:42 +0200",
       "prairie": "2022-08-24 19:39:06 +0200",
@@ -703,6 +726,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2022-08-27 19:53:41 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake": {
+    "criteria": {
+      "has_plank": "2022-08-31 20:40:44 +0200"
     },
     "done": true
   },
@@ -760,6 +789,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:38:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-24 18:59:21 +0200"
@@ -793,6 +828,12 @@
   "create:recipes/misc/smelting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2022-08-27 19:30:33 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "roast_chicken": "2022-08-31 20:50:32 +0200"
     },
     "done": true
   },
@@ -926,6 +967,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 19:07:47 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2022-08-31 20:49:56 +0200"
     },
     "done": true
   },
@@ -1119,6 +1166,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2022-08-31 20:40:44 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley_block": {
     "criteria": {
       "has_plank": "2022-08-24 19:06:01 +0200"
@@ -1134,6 +1187,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "way_sign": "2022-08-26 15:45:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-08-31 21:38:25 +0200"
     },
     "done": true
   },
@@ -1372,15 +1431,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2022-08-31 21:12:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-27 19:03:34 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2022-08-31 21:53:02 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2022-08-24 19:35:35 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2022-08-31 20:40:44 +0200"
     },
     "done": true
   },
@@ -1615,6 +1692,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2022-08-24 19:52:29 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "logic": "2022-08-31 20:39:42 +0200"
     },
     "done": true
   },
@@ -2059,6 +2142,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2022-08-24 19:52:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-08-31 21:38:25 +0200"
     },
     "done": true
   },
@@ -2542,6 +2631,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:38:58 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2022-08-26 16:14:09 +0200"
@@ -2595,6 +2690,12 @@
   "extcaves:recipes/pebble_stone": {
     "criteria": {
       "has_item": "2022-08-26 14:09:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-08-31 21:38:25 +0200"
     },
     "done": true
   },
@@ -2703,6 +2804,12 @@
   "create:recipes/create.base/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2022-08-24 19:55:57 +0200"
+    },
+    "done": true
+  },
+  "create:fan_lava": {
+    "criteria": {
+      "0": "2022-08-31 21:50:54 +0200"
     },
     "done": true
   },
@@ -2840,9 +2947,16 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2022-08-27 18:28:43 +0200"
+      "minecraft:cow": "2022-08-27 18:28:43 +0200",
+      "minecraft:chicken": "2022-08-31 21:17:09 +0200"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2022-08-31 20:40:44 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
@@ -3039,6 +3153,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2022-08-30 23:40:19 +0200"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2022-08-31 21:09:18 +0200"
     },
     "done": true
   },
@@ -3438,6 +3558,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:38:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 19:07:47 +0200"
@@ -3456,6 +3582,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2022-08-31 20:38:58 +0200"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/charged_quartz": {
     "criteria": {
       "certus": "2022-08-26 15:12:00 +0200"
@@ -3465,6 +3597,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 19:46:32 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2022-08-31 20:49:56 +0200"
     },
     "done": true
   },
@@ -3686,15 +3824,15 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2022-08-31 00:16:22 +0200"
-    },
-    "done": true
-  },
   "xreliquary:recipes/xreliquary/ice_magus_rod": {
     "criteria": {
       "has_frozen_core": "2022-08-31 00:12:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2022-08-31 00:16:22 +0200"
     },
     "done": true
   },
