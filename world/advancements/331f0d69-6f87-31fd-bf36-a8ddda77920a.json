@@ -495,7 +495,8 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "magma_cream": "2022-08-29 23:48:06 +0200",
-      "earth": "2022-08-24 19:21:38 +0200"
+      "earth": "2022-08-24 19:21:38 +0200",
+      "blood": "2022-08-31 22:16:04 +0200"
     },
     "done": false
   },
@@ -574,6 +575,12 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2022-08-29 23:30:39 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/palettes/copper_tiles": {
+    "criteria": {
+      "has_item": "2022-08-31 22:12:59 +0200"
     },
     "done": true
   },
@@ -745,6 +752,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2022-08-31 22:10:13 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain": {
     "criteria": {
       "has_item": "2022-08-31 21:26:44 +0200"
@@ -762,6 +775,12 @@
       "has_item": "2022-08-30 23:17:02 +0200"
     },
     "done": true
+  },
+  "create:mixer": {
+    "criteria": {
+      "0": "2022-08-31 22:33:50 +0200"
+    },
+    "done": false
   },
   "chisel:recipes/chisel/tyrian/shining": {
     "criteria": {
@@ -1968,6 +1987,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/palettes/copper_shingles": {
+    "criteria": {
+      "has_item": "2022-08-31 22:12:59 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2022-08-31 21:51:59 +0200"
@@ -2069,6 +2094,15 @@
       "has_granite_cobblestone": "2022-08-29 23:25:48 +0200"
     },
     "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_tank": "2022-08-31 22:02:21 +0200",
+      "seared_table": "2022-08-31 22:10:15 +0200",
+      "seared_basin": "2022-08-31 22:10:13 +0200",
+      "seared_faucet": "2022-08-31 22:04:15 +0200"
+    },
+    "done": false
   },
   "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
     "criteria": {
@@ -2358,6 +2392,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/palettes/copper_shingles_from_tiles": {
+    "criteria": {
+      "has_item": "2022-08-31 22:12:59 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2022-08-30 01:19:10 +0200"
@@ -2620,6 +2660,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2022-08-29 23:19:49 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/blood/slimeblock": {
+    "criteria": {
+      "has_item": "2022-08-31 22:16:04 +0200"
     },
     "done": true
   },
@@ -3765,6 +3811,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2022-08-31 22:10:13 +0200"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/bar_panel": {
     "criteria": {
       "has_ingot": "2022-08-24 19:04:34 +0200"
@@ -4093,6 +4145,12 @@
   "chisel:recipes/chisel/futura/uber_wavy": {
     "criteria": {
       "has_redstone": "2022-08-30 00:27:13 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/blood/congealed": {
+    "criteria": {
+      "has_item": "2022-08-31 22:16:04 +0200"
     },
     "done": true
   },
@@ -4776,6 +4834,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-08-24 19:21:55 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2022-08-31 22:02:23 +0200"
     },
     "done": true
   },
