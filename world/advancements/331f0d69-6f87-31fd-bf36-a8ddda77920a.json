@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/lead_ingot_compat_eidolon": {
     "criteria": {
       "has_item": "2022-08-27 19:38:23 +0200"
@@ -134,6 +140,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2022-08-24 19:51:28 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
     },
     "done": true
   },
@@ -297,6 +309,12 @@
   "create:recipes/create.palettes/granite_cobblestone_stairs": {
     "criteria": {
       "has_granite_cobblestone": "2022-08-29 23:25:48 +0200"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2022-09-01 19:12:53 +0200"
     },
     "done": true
   },
@@ -698,6 +716,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 19:07:50 +0200"
@@ -778,9 +802,16 @@
   },
   "create:mixer": {
     "criteria": {
-      "0": "2022-08-31 22:33:50 +0200"
+      "0": "2022-08-31 22:33:50 +0200",
+      "1": "2022-09-01 19:03:53 +0200"
     },
-    "done": false
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
+    },
+    "done": true
   },
   "chisel:recipes/chisel/tyrian/shining": {
     "criteria": {
@@ -924,6 +955,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 19:55:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
     },
     "done": true
   },
@@ -1536,6 +1573,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2022-08-24 19:22:06 +0200"
@@ -1689,6 +1732,12 @@
   "create:recipes/create.base/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2022-08-27 18:50:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_casing": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
     },
     "done": true
   },
@@ -2786,6 +2835,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2022-08-24 19:49:05 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
     },
     "done": true
   },
@@ -4990,6 +5045,12 @@
   "create:recipes/create.palettes/granite_cobblestone_wall": {
     "criteria": {
       "has_granite_cobblestone": "2022-08-29 23:25:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2022-09-01 19:12:53 +0200"
     },
     "done": true
   },
