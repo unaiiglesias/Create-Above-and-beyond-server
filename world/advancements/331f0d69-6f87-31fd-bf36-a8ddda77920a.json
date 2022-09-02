@@ -728,6 +728,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2022-09-02 13:02:26 +0200"
+    },
+    "done": true
+  },
   "xreliquary:recipes/food/uncrafting/spider_eye": {
     "criteria": {
       "has_chelicerae": "2022-08-26 20:38:08 +0200"

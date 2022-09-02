@@ -359,9 +359,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2022-09-02 13:03:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-08-26 13:40:05 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/obsidian_skull": {
+    "criteria": {
+      "has_item": "2022-09-02 11:55:56 +0200"
     },
     "done": true
   },
@@ -407,15 +419,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/tackle_box": {
-    "criteria": {
-      "has_items": "2022-09-02 01:53:16 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2022-09-02 01:26:11 +0200"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2022-09-02 01:53:16 +0200"
     },
     "done": true
   },
@@ -822,6 +834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-09-02 13:03:18 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/purple_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-08-26 16:50:34 +0200"
@@ -1020,6 +1038,12 @@
     },
     "done": true
   },
+  "create:press": {
+    "criteria": {
+      "0": "2022-09-02 13:04:30 +0200"
+    },
+    "done": true
+  },
   "cb_microblock:recipes/misc/stone_rod": {
     "criteria": {
       "has_cobble": "2022-08-26 01:23:56 +0200"
@@ -1083,6 +1107,12 @@
   "create:recipes/building_blocks/blasting/lead_ingot_compat_mysticalworld": {
     "criteria": {
       "has_item": "2022-08-26 13:46:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2022-09-02 12:08:11 +0200"
     },
     "done": true
   },
@@ -1315,6 +1345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2022-09-02 11:32:50 +0200"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/icicle_lights": {
     "criteria": {
       "has_iron": "2022-08-26 13:40:05 +0200"
@@ -1465,6 +1501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-09-02 11:41:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-08-26 14:36:40 +0200"
@@ -1528,6 +1570,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2022-08-26 01:25:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-09-02 12:08:11 +0200"
     },
     "done": true
   },
@@ -1750,6 +1798,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2022-09-02 11:32:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-08-26 14:40:36 +0200"
@@ -1903,6 +1957,12 @@
   "create:recipes/create.palettes/andesite_cobblestone_slab": {
     "criteria": {
       "has_andesite_cobblestone": "2022-08-26 13:58:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-09-02 11:55:56 +0200"
     },
     "done": true
   },
@@ -2227,7 +2287,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2022-08-26 01:25:02 +0200",
-      "wheat": "2022-08-26 01:24:33 +0200"
+      "wheat": "2022-08-26 01:24:33 +0200",
+      "carrot": "2022-09-02 11:05:20 +0200"
     },
     "done": false
   },
@@ -2465,6 +2526,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-09-02 11:55:56 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/futura/screen_cyan": {
     "criteria": {
       "has_redstone": "2022-09-02 00:57:08 +0200"
@@ -2663,21 +2730,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-09-02 11:03:46 +0200"
+    },
+    "done": true
+  },
   "xreliquary:recipes/misc/uncrafting/string": {
     "criteria": {
       "has_chelicerae": "2022-08-26 16:42:27 +0200"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2022-09-02 01:38:21 +0200"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_paper": "2022-09-02 01:29:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-09-02 01:38:21 +0200"
     },
     "done": true
   },
@@ -2702,6 +2775,12 @@
   "farmersdelight:recipes/farmersdelight/barbecue_stick": {
     "criteria": {
       "has_cooked_beef": "2022-08-26 01:30:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2022-09-02 13:28:27 +0200"
     },
     "done": true
   },
@@ -2792,6 +2871,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2022-08-26 01:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2022-09-02 12:08:11 +0200"
     },
     "done": true
   },
