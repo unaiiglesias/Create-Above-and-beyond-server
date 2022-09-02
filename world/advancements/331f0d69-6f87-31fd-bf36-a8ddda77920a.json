@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "create:clockwork_component_eob": {
+    "criteria": {
+      "0": "2022-09-02 01:38:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2022-08-26 20:52:45 +0200"
@@ -560,6 +566,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2022-09-02 01:15:35 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_casing": {
     "criteria": {
       "has_item": "2022-08-26 20:51:24 +0200"
@@ -581,6 +593,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-26 20:53:39 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
     },
     "done": true
   },
@@ -686,9 +704,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-09-02 01:16:37 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2022-08-31 20:48:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-09-02 00:45:27 +0200"
     },
     "done": true
   },
@@ -803,6 +833,12 @@
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "has_item": "2022-08-30 23:17:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-09-02 01:16:37 +0200"
     },
     "done": true
   },
@@ -958,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-09-02 01:47:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 19:55:36 +0200"
@@ -1003,6 +1045,12 @@
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_torch": "2022-08-24 18:57:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
     },
     "done": true
   },
@@ -1270,6 +1318,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2022-09-02 00:25:34 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/laboratory/smallsteel": {
     "criteria": {
       "has_quartz": "2022-08-29 23:50:56 +0200"
@@ -1297,6 +1351,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2022-08-24 19:12:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2022-09-02 00:45:27 +0200"
     },
     "done": true
   },
@@ -1558,6 +1618,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2022-08-24 19:55:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2022-09-02 01:16:37 +0200"
     },
     "done": true
   },
@@ -2640,6 +2706,12 @@
     },
     "done": true
   },
+  "create:electron_tube": {
+    "criteria": {
+      "0": "2022-09-02 01:15:35 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2022-08-24 18:52:50 +0200"
@@ -2649,6 +2721,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/lantern": {
     "criteria": {
       "has_item": "2022-08-31 21:26:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2022-09-02 01:16:37 +0200"
     },
     "done": true
   },
@@ -2820,6 +2898,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2022-09-02 01:38:37 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2022-08-24 19:22:06 +0200"
@@ -2891,6 +2975,12 @@
       "in_igloo_grassy": "2022-08-31 00:12:17 +0200"
     },
     "done": false
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
+    },
+    "done": true
   },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
@@ -3114,6 +3204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-09-02 00:31:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-08-27 19:25:46 +0200"
@@ -3264,6 +3360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-09-02 01:47:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-30 01:26:10 +0200"
@@ -3306,9 +3408,11 @@
       "bayou_mangrove": "2022-08-24 19:24:29 +0200",
       "wetland_forest": "2022-08-24 18:56:37 +0200",
       "bayou": "2022-08-24 19:25:01 +0200",
+      "lush_savanna": "2022-09-02 01:35:35 +0200",
       "grove_clearing": "2022-08-27 19:24:18 +0200",
       "wetland": "2022-08-24 18:56:27 +0200",
       "withered_abyss": "2022-08-30 00:16:17 +0200",
+      "lush_desert": "2022-09-02 01:35:30 +0200",
       "grove_lakes": "2022-08-24 19:40:26 +0200",
       "golden_prairie": "2022-08-24 19:43:13 +0200",
       "prairie": "2022-08-24 19:39:02 +0200",
@@ -3387,6 +3491,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_triangle_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2022-08-31 21:51:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
     },
     "done": true
   },
@@ -3544,6 +3654,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-24 19:51:28 +0200"
@@ -3655,6 +3771,12 @@
   "biomesoplenty:recipes/building_blocks/white_sandstone": {
     "criteria": {
       "has_sand": "2022-08-30 01:24:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/adjustable_crate": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
     },
     "done": true
   },
@@ -3964,6 +4086,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2022-09-02 01:15:06 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/blasting/lead_ingot_compat_eidolon": {
     "criteria": {
       "has_item": "2022-08-27 19:38:23 +0200"
@@ -4229,6 +4357,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2022-08-24 19:21:38 +0200"
@@ -4265,6 +4399,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2022-09-02 01:09:40 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_rug": {
     "criteria": {
       "has_canvas": "2022-08-30 01:20:54 +0200"
@@ -4277,6 +4417,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
     "criteria": {
       "has_item": "2022-08-31 21:26:44 +0200"
@@ -4286,6 +4432,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-24 18:53:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-09-02 01:47:45 +0200"
     },
     "done": true
   },
@@ -4409,6 +4561,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2022-08-24 19:13:48 +0200"
@@ -4491,6 +4649,12 @@
     },
     "done": true
   },
+  "create:polished_rose_quartz": {
+    "criteria": {
+      "0": "2022-09-02 01:11:09 +0200"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2022-08-24 19:55:36 +0200"
@@ -4527,6 +4691,12 @@
     },
     "done": true
   },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2022-09-02 01:38:42 +0200"
+    },
+    "done": true
+  },
   "create:fan_lava": {
     "criteria": {
       "0": "2022-08-31 21:27:15 +0200"
@@ -4554,6 +4724,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2022-08-24 23:29:36 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/test_tube": {
+    "criteria": {
+      "has_item": "2022-09-02 00:23:58 +0200"
     },
     "done": true
   },
@@ -4650,6 +4826,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2022-08-24 19:55:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
     },
     "done": true
   },
@@ -4926,6 +5108,12 @@
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2022-08-24 19:04:34 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2022-09-02 01:38:37 +0200"
     },
     "done": true
   },
