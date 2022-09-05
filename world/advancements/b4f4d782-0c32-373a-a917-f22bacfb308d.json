@@ -752,6 +752,12 @@
     },
     "done": true
   },
+  "create:mixer": {
+    "criteria": {
+      "1": "2022-09-05 13:12:13 +0200"
+    },
+    "done": false
+  },
   "chisel:recipes/chisel/tyrian/shining": {
     "criteria": {
       "has_iron": "2022-08-24 19:06:01 +0200"
@@ -1665,6 +1671,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_mysterywood": {
+    "criteria": {
+      "has_plank": "2022-09-05 14:31:24 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2022-08-26 15:31:44 +0200"
@@ -2151,6 +2163,12 @@
       "roast_chicken": "2022-08-31 22:21:59 +0200"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_pantry": {
+    "criteria": {
+      "has_spruce_trapdoor": "2022-09-05 14:42:52 +0200"
+    },
+    "done": true
   },
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
@@ -2944,6 +2962,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2022-09-05 14:46:40 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2022-08-27 18:20:51 +0200"
@@ -3213,6 +3237,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-09-05 13:35:25 +0200",
       "minecraft:skeleton": "2022-08-26 15:01:51 +0200",
       "minecraft:magma_cube": "2022-08-30 23:46:00 +0200",
       "minecraft:spider": "2022-08-24 19:23:43 +0200",
@@ -3224,6 +3249,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2022-08-24 19:52:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-09-05 14:36:55 +0200"
     },
     "done": true
   },
@@ -3266,6 +3297,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2022-08-26 15:31:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-09-05 13:35:47 +0200"
     },
     "done": true
   },
@@ -3326,6 +3363,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2022-08-24 19:11:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-09-05 14:46:40 +0200"
     },
     "done": true
   },
@@ -4165,6 +4208,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2022-09-05 14:43:19 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2022-08-31 20:40:44 +0200"
@@ -4518,6 +4567,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-08-24 19:58:23 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2022-09-05 13:11:46 +0200"
     },
     "done": true
   },
@@ -4875,6 +4930,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_mysterywood": {
+    "criteria": {
+      "has_plank": "2022-09-05 14:31:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-08-24 19:11:57 +0200"
@@ -5004,6 +5065,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-08-24 19:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2022-09-05 14:43:19 +0200"
     },
     "done": true
   },
