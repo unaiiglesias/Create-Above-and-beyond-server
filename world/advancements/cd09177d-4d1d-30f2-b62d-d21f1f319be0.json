@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-09-06 14:41:39 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
     "criteria": {
       "has_flower": "2022-08-26 16:12:52 +0200"
@@ -215,9 +221,21 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-09-06 14:35:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2022-08-26 01:22:58 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2022-09-06 15:51:09 +0200"
     },
     "done": true
   },
@@ -248,6 +266,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2022-08-26 14:35:38 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2022-09-06 14:35:42 +0200"
     },
     "done": true
   },
@@ -326,6 +350,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/stone_blacksmith_gavel": {
     "criteria": {
       "has_item": "2022-08-26 01:23:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-09-06 14:37:10 +0200"
     },
     "done": true
   },
@@ -425,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2022-09-06 14:50:34 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2022-08-26 01:25:03 +0200"
@@ -493,9 +529,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2022-09-06 14:28:34 +0200",
       "wetland_forest": "2022-08-26 01:22:34 +0200",
       "bayou": "2022-08-26 16:33:48 +0200",
       "grove_clearing": "2022-09-02 01:30:43 +0200",
+      "lavender_forest": "2022-09-06 14:28:13 +0200",
+      "redwood_hills": "2022-09-06 14:32:43 +0200",
       "lush_desert": "2022-09-02 01:35:32 +0200",
       "grove_lakes": "2022-09-02 01:32:12 +0200",
       "golden_prairie": "2022-08-26 16:11:05 +0200",
@@ -539,6 +578,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2022-08-26 01:23:56 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2022-09-06 14:35:42 +0200"
     },
     "done": true
   },
@@ -644,6 +689,12 @@
     },
     "done": true
   },
+  "extcaves:caves/zombie_miner": {
+    "criteria": {
+      "get_item": "2022-09-06 15:20:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-26 13:44:09 +0200"
@@ -691,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-09-06 14:33:22 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2022-08-26 13:40:05 +0200"
@@ -733,6 +790,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2022-09-06 14:59:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-09-05 14:14:58 +0200"
@@ -763,6 +826,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2022-09-06 14:28:22 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/futura/controller": {
     "criteria": {
       "has_redstone": "2022-09-02 00:57:08 +0200"
@@ -790,6 +859,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2022-08-26 14:40:36 +0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/birch_palisade": {
+    "criteria": {
+      "has_log": "2022-09-06 14:33:22 +0200"
     },
     "done": true
   },
@@ -907,6 +982,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2022-09-06 14:50:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-08-26 13:40:05 +0200"
@@ -916,6 +997,12 @@
   "create:recipes/create.base/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-08-26 16:50:34 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2022-09-06 14:37:10 +0200"
     },
     "done": true
   },
@@ -1063,9 +1150,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-09-06 14:33:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-26 13:44:09 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/picker_stone": {
+    "criteria": {
+      "has_item": "2022-09-06 15:04:12 +0200"
     },
     "done": true
   },
@@ -1293,6 +1392,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2022-09-06 14:21:32 +0200",
       "minecraft:dark_forest": "2022-08-26 01:22:23 +0200",
       "minecraft:river": "2022-08-26 16:34:14 +0200"
     },
@@ -1526,6 +1626,18 @@
     },
     "done": true
   },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2022-09-06 14:59:24 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/food/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2022-09-06 14:59:24 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/futura/uber_wavy": {
     "criteria": {
       "has_redstone": "2022-09-02 00:57:08 +0200"
@@ -1580,6 +1692,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/jacaranda_palisade": {
+    "criteria": {
+      "has_log": "2022-09-06 14:28:22 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2022-08-26 01:25:03 +0200"
@@ -1619,6 +1737,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2022-08-26 01:24:32 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2022-09-06 14:28:22 +0200"
     },
     "done": true
   },
@@ -1757,6 +1881,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2022-08-26 16:06:22 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-09-06 14:35:42 +0200"
     },
     "done": true
   },
@@ -2131,6 +2261,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2022-09-06 14:36:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2022-08-26 13:40:05 +0200"
@@ -2200,6 +2336,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2022-09-02 01:26:11 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2022-09-06 14:59:24 +0200"
     },
     "done": true
   },
@@ -2365,6 +2507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-09-06 14:37:10 +0200"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/ghost_light": {
     "criteria": {
       "has_iron": "2022-08-26 13:40:05 +0200"
@@ -2425,6 +2573,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:recipes/appliedenergistics2/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2022-09-06 14:35:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-26 13:44:09 +0200"
@@ -2440,6 +2594,12 @@
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2022-08-26 13:40:05 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:recipes/appliedenergistics2/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2022-09-06 14:35:42 +0200"
     },
     "done": true
   },
@@ -2632,6 +2792,12 @@
     },
     "done": true
   },
+  "extcaves:caves/root": {
+    "criteria": {
+      "item_to_find": "2022-09-06 15:04:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-08-26 01:23:56 +0200"
@@ -2683,6 +2849,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-08-26 14:36:40 +0200"
+    },
+    "done": true
+  },
+  "extcaves:recipes/stone": {
+    "criteria": {
+      "has_item": "2022-09-06 15:04:12 +0200"
     },
     "done": true
   },
