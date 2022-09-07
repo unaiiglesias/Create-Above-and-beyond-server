@@ -638,6 +638,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2022-09-07 00:57:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2022-08-24 19:23:09 +0200"
@@ -895,6 +901,12 @@
     "criteria": {
       "0": "2022-08-27 18:30:01 +0200",
       "1": "2022-08-26 20:44:43 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2022-09-07 01:48:28 +0200"
     },
     "done": true
   },
@@ -1462,6 +1474,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2022-08-24 19:53:14 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/food/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2022-09-07 00:57:42 +0200"
     },
     "done": true
   },
@@ -2144,6 +2162,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2022-09-07 00:57:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-24 19:51:28 +0200"
@@ -2549,6 +2573,12 @@
       "in_temple_nether_basalt": "2022-08-30 00:13:35 +0200"
     },
     "done": false
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2022-09-07 01:44:35 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
@@ -3622,6 +3652,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-09-07 02:25:23 +0200",
       "minecraft:skeleton": "2022-08-24 19:48:43 +0200",
       "minecraft:zoglin": "2022-08-30 00:28:44 +0200",
       "minecraft:ghast": "2022-08-29 23:55:07 +0200",
@@ -4393,6 +4424,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2022-09-07 00:57:42 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/futura/uber_wavy": {
     "criteria": {
       "has_redstone": "2022-08-30 00:27:13 +0200"
@@ -5148,6 +5185,12 @@
     },
     "done": false
   },
+  "create:tunnel": {
+    "criteria": {
+      "0": "2022-09-07 00:49:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-08-24 19:21:55 +0200"
@@ -5517,6 +5560,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2022-08-24 19:53:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2022-09-07 01:43:48 +0200"
     },
     "done": true
   },
