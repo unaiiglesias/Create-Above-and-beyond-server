@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "XtrikeGamer55",
+      "uniqueId": "331f0d69-6f87-31fd-bf36-a8ddda77920a"
+    },
+    "time": 1662568331998,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/8pPBk5cLZC"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "XtrikeGamer55",
+      "uniqueId": "331f0d69-6f87-31fd-bf36-a8ddda77920a"
+    },
+    "time": 1662568306341,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\unai\\Desktop\\Minecraft\\Server develop\\Crafted create - above and beyond\\config\\spark\\heap-2022-09-07_18.31.37.hprof"
+    }
+  }
+]
