@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2022-09-08 20:33:30 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/antiblock/white": {
     "criteria": {
       "has_glowstone": "2022-09-01 20:55:09 +0200"
@@ -272,6 +278,12 @@
   "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2022-08-24 19:50:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2022-09-08 20:37:42 +0200"
     },
     "done": true
   },
@@ -650,6 +662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2022-09-08 20:37:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2022-08-24 19:06:59 +0200"
@@ -954,6 +972,12 @@
   "supplementaries:recipes/copper_lantern": {
     "criteria": {
       "has_item": "2022-09-07 15:34:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-09-08 19:58:58 +0200"
     },
     "done": true
   },
@@ -1281,9 +1305,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-09-08 20:31:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-27 19:03:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2022-09-08 20:37:42 +0200"
     },
     "done": true
   },
@@ -1502,6 +1538,12 @@
   "xreliquary:recipes/xreliquary/mob_charm_fragments/magma_cube": {
     "criteria": {
       "has_molten_core": "2022-09-07 15:23:46 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/holy_hand_grenade": {
+    "criteria": {
+      "has_glowing_water": "2022-09-08 20:15:05 +0200"
     },
     "done": true
   },
@@ -1736,6 +1778,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-08-24 18:57:50 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar_tinted": {
+    "criteria": {
+      "has_item": "2022-09-08 20:33:30 +0200"
     },
     "done": true
   },
@@ -3403,6 +3451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-09-08 19:58:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-27 19:03:34 +0200"
@@ -4172,6 +4226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2022-09-08 20:33:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:warm_ocean": "2022-08-24 19:35:56 +0200",
@@ -4436,6 +4496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2022-09-08 20:33:30 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
     "criteria": {
       "has_item": "2022-08-31 22:00:37 +0200"
@@ -4445,6 +4511,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-24 18:59:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-09-08 19:58:58 +0200"
     },
     "done": true
   },
@@ -4754,6 +4826,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-08-26 15:47:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-09-08 20:33:30 +0200"
     },
     "done": true
   },
@@ -5507,6 +5585,12 @@
   "create:recipes/create.palettes/gabbro_cobblestone_wall_from_gabbro_cobblestone_stonecutting": {
     "criteria": {
       "has_gabbro_cobblestone": "2022-08-30 23:33:47 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/glowing_bread": {
+    "criteria": {
+      "has_glowing_water": "2022-09-08 20:15:05 +0200"
     },
     "done": true
   },
