@@ -1535,6 +1535,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/jacaranda_palisade": {
+    "criteria": {
+      "has_log": "2022-09-10 15:31:13 +0200"
+    },
+    "done": true
+  },
   "xreliquary:recipes/xreliquary/mob_charm_fragments/magma_cube": {
     "criteria": {
       "has_molten_core": "2022-09-07 15:23:46 +0200"
@@ -3776,6 +3782,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2022-09-10 15:31:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-09-07 14:02:58 +0200"
@@ -4127,6 +4139,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-08-31 22:27:34 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion": {
+    "criteria": {
+      "has_onion_crate": "2022-09-10 15:36:44 +0200"
     },
     "done": true
   },
@@ -4571,6 +4589,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2022-08-26 14:09:43 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2022-09-10 15:31:13 +0200"
     },
     "done": true
   },

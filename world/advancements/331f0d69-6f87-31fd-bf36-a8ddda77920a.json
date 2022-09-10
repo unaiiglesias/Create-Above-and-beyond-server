@@ -572,6 +572,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2022-09-10 14:57:45 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2022-09-02 01:15:35 +0200"
@@ -870,6 +876,12 @@
     "criteria": {
       "0": "2022-08-31 22:33:50 +0200",
       "1": "2022-09-01 19:03:53 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/brewing/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2022-09-10 14:57:45 +0200"
     },
     "done": true
   },
@@ -2318,6 +2330,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
     "criteria": {
       "has_item": "2022-08-24 19:05:37 +0200"
+    },
+    "done": true
+  },
+  "create:goggles": {
+    "criteria": {
+      "0": "2022-09-10 15:04:14 +0200"
     },
     "done": true
   },
@@ -4201,6 +4219,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/creeper": {
+    "criteria": {
+      "has_catalyzing_gland": "2022-09-10 14:57:45 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2022-08-24 19:04:34 +0200"
@@ -4673,6 +4697,12 @@
   "farmersdelight:recipes/farmersdelight/raw_pasta_from_water": {
     "criteria": {
       "has_wheat": "2022-08-24 23:29:36 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/ghast": {
+    "criteria": {
+      "has_catalyzing_gland": "2022-09-10 14:57:45 +0200"
     },
     "done": true
   },
