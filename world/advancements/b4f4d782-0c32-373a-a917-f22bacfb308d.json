@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-09-11 18:02:48 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
     "criteria": {
       "has_vine": "2022-09-07 02:30:18 +0200"
@@ -572,6 +578,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_birch": {
+    "criteria": {
+      "has_plank": "2022-09-11 19:09:20 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_casing": {
     "criteria": {
       "has_item": "2022-08-24 19:52:29 +0200"
@@ -776,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-09-11 18:16:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2022-08-24 19:59:29 +0200"
@@ -906,6 +924,12 @@
   "decorative_blocks:recipes/decorations/birch_beam": {
     "criteria": {
       "has_stripped_log": "2022-09-07 13:38:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-09-11 19:09:20 +0200"
     },
     "done": true
   },
@@ -1074,6 +1098,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/utrem_jar": {
     "criteria": {
       "has_item": "2022-08-27 19:03:34 +0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/birch_support": {
+    "criteria": {
+      "has_plank": "2022-09-11 19:09:20 +0200"
     },
     "done": true
   },
@@ -1341,6 +1371,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2022-09-11 18:38:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2022-08-24 19:11:57 +0200"
@@ -1376,6 +1412,13 @@
       "has_iron_nugget": "2022-08-24 19:05:53 +0200"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "cobalt": "2022-09-11 18:38:32 +0200",
+      "iron": "2022-09-11 18:38:32 +0200"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
@@ -1472,6 +1515,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2022-08-24 19:06:01 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2022-09-11 18:38:48 +0200"
     },
     "done": true
   },
@@ -1756,6 +1805,14 @@
       "has_item": "2022-08-26 14:59:28 +0200"
     },
     "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "large_plate": "2022-09-11 18:37:08 +0200",
+      "tough_handle": "2022-09-11 18:37:59 +0200",
+      "hammer_head": "2022-09-11 18:37:50 +0200"
+    },
+    "done": false
   },
   "chisel:recipes/chisel/diamond_chisel": {
     "criteria": {
@@ -2077,6 +2134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-09-11 18:47:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2022-08-27 19:53:41 +0200"
@@ -2323,6 +2386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-09-11 19:09:20 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2022-08-27 19:53:41 +0200"
@@ -2404,6 +2473,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-09-07 00:48:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-09-11 19:09:20 +0200"
     },
     "done": true
   },
@@ -2719,6 +2794,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2022-09-11 18:37:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2022-09-07 14:02:58 +0200"
@@ -2953,6 +3034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-09-11 19:09:20 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourished": "2022-08-31 22:21:59 +0200"
@@ -3052,6 +3139,12 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2022-08-24 19:55:57 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_plank": "2022-09-11 19:09:20 +0200"
     },
     "done": true
   },
@@ -3547,6 +3640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-09-11 18:47:49 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "deep_bayou": "2022-08-24 19:39:02 +0200",
@@ -3635,6 +3734,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2022-09-11 18:02:32 +0200"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/chain": {
     "criteria": {
       "has_ingot": "2022-08-24 19:06:01 +0200"
@@ -3668,6 +3773,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2022-08-24 18:57:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2022-09-11 19:09:20 +0200"
     },
     "done": true
   },
@@ -3748,7 +3859,8 @@
       "minecraft:piglin_brute": "2022-09-07 15:32:50 +0200",
       "minecraft:creeper": "2022-08-26 15:46:54 +0200",
       "minecraft:wither_skeleton": "2022-09-08 18:24:29 +0200",
-      "minecraft:zombie": "2022-08-24 18:56:35 +0200"
+      "minecraft:zombie": "2022-08-24 18:56:35 +0200",
+      "minecraft:zombie_villager": "2022-09-11 18:56:50 +0200"
     },
     "done": false
   },
@@ -3767,6 +3879,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2022-09-05 14:36:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-09-11 18:51:55 +0200"
     },
     "done": true
   },
@@ -3791,6 +3909,12 @@
   "create:recipes/create.base/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-08-26 16:47:00 +0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/birch_seat": {
+    "criteria": {
+      "has_plank": "2022-09-11 19:09:20 +0200"
     },
     "done": true
   },
@@ -3860,6 +3984,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/birch_palisade": {
+    "criteria": {
+      "has_log": "2022-09-11 18:51:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-09-07 14:02:58 +0200"
@@ -3899,6 +4029,12 @@
   "chisel:recipes/chisel/futura/wavy": {
     "criteria": {
       "has_redstone": "2022-08-27 19:53:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-09-11 18:16:34 +0200"
     },
     "done": true
   },
@@ -4172,6 +4308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-09-11 19:09:20 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "has_item": "2022-08-24 18:57:48 +0200"
@@ -4205,6 +4347,12 @@
   "farmersdelight:recipes/farmersdelight/onion": {
     "criteria": {
       "has_onion_crate": "2022-09-10 15:36:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-09-11 18:16:34 +0200"
     },
     "done": true
   },
@@ -4318,6 +4466,7 @@
       "minecraft:dark_forest": "2022-08-24 18:53:40 +0200",
       "minecraft:river": "2022-08-24 19:11:57 +0200",
       "minecraft:lukewarm_ocean": "2022-08-24 19:33:02 +0200",
+      "minecraft:swamp": "2022-09-11 19:51:44 +0200",
       "minecraft:plains": "2022-08-24 19:29:52 +0200"
     },
     "done": false
@@ -4343,6 +4492,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2022-08-24 18:57:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-09-11 18:47:49 +0200"
     },
     "done": true
   },
@@ -4415,6 +4570,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "has_item": "2022-08-26 14:13:10 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_advanced": {
+    "criteria": {
+      "has_components": "2022-09-11 18:01:56 +0200"
     },
     "done": true
   },
@@ -4613,6 +4774,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-08-31 22:27:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-09-11 19:09:20 +0200"
     },
     "done": true
   },
@@ -4832,6 +4999,18 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2022-08-24 19:11:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-09-11 19:09:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-09-11 18:47:49 +0200"
     },
     "done": true
   },
@@ -5069,6 +5248,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2022-09-11 18:37:31 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/ingot_lead_compat_mekanism": {
     "criteria": {
       "has_item": "2022-08-26 15:19:13 +0200"
@@ -5159,6 +5344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-09-11 18:02:48 +0200"
+    },
+    "done": true
+  },
   "architects_palette:main/root": {
     "criteria": {
       "craftingtable": "2022-08-24 18:54:49 +0200"
@@ -5189,6 +5380,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2022-09-11 19:09:20 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/auto_chisel": {
     "criteria": {
       "has_iron": "2022-08-24 19:06:01 +0200"
@@ -5216,6 +5413,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-09-08 17:50:44 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2022-09-11 17:55:18 +0200"
     },
     "done": true
   },
@@ -5327,6 +5530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-09-11 18:47:49 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2022-08-27 19:29:12 +0200",
@@ -5381,6 +5590,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-08-31 22:27:34 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2022-09-11 17:47:53 +0200"
     },
     "done": true
   },
@@ -5696,6 +5911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-09-11 18:47:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2022-08-27 19:35:50 +0200"
@@ -5750,6 +5971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2022-09-11 18:02:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2022-08-24 19:55:57 +0200"
@@ -5774,6 +6001,12 @@
       "has_blackstone": "2022-09-07 14:02:58 +0200"
     },
     "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "sledge_hammer": "2022-09-11 18:38:32 +0200"
+    },
+    "done": false
   },
   "supplementaries:recipes/hanging_sign_mysterywood": {
     "criteria": {
@@ -5808,6 +6041,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-26 14:09:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-09-11 19:09:20 +0200"
     },
     "done": true
   },
