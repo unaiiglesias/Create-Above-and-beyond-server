@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2022-09-11 14:21:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-08-24 18:52:50 +0200"
@@ -1995,6 +2001,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2022-09-11 12:12:19 +0200",
       "minecraft:cow": "2022-08-26 01:49:35 +0200",
       "minecraft:chicken": "2022-08-31 21:44:07 +0200"
     },
@@ -2429,6 +2436,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2022-09-11 12:07:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 19:55:36 +0200"
@@ -2471,6 +2484,12 @@
     },
     "done": false
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2022-09-11 13:41:23 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2022-08-26 20:51:24 +0200"
@@ -2504,6 +2523,12 @@
   "create:recipes/building_blocks/smelting/lead_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2022-08-27 19:38:23 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2022-09-11 14:21:17 +0200"
     },
     "done": true
   },
@@ -3384,6 +3409,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2022-09-11 13:41:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-08-29 23:30:39 +0200"
@@ -3492,6 +3523,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2022-09-11 12:37:32 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2022-08-26 20:51:24 +0200"
@@ -3550,11 +3587,13 @@
     "criteria": {
       "deep_bayou": "2022-08-24 19:24:07 +0200",
       "bayou_mangrove": "2022-08-24 19:24:29 +0200",
+      "scrubland": "2022-09-11 12:20:36 +0200",
       "wetland_forest": "2022-08-24 18:56:37 +0200",
       "bayou": "2022-08-24 19:25:01 +0200",
       "lush_savanna": "2022-09-02 01:35:35 +0200",
       "grove_clearing": "2022-08-27 19:24:18 +0200",
       "wetland": "2022-08-24 18:56:27 +0200",
+      "wooded_scrubland": "2022-09-11 12:20:30 +0200",
       "withered_abyss": "2022-08-30 00:16:17 +0200",
       "lush_desert": "2022-09-02 01:35:30 +0200",
       "grove_lakes": "2022-08-24 19:40:26 +0200",
@@ -4111,6 +4150,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2022-09-11 14:21:17 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2022-08-30 01:19:22 +0200"
@@ -4370,6 +4415,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2022-09-11 14:21:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2022-08-24 18:52:47 +0200"
@@ -4541,6 +4592,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2022-09-02 01:38:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2022-09-11 12:05:39 +0200"
     },
     "done": true
   },
@@ -5115,6 +5172,12 @@
   "decorative_blocks:recipes/decorations/dark_oak_seat": {
     "criteria": {
       "has_plank": "2022-08-24 19:51:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2022-09-11 12:05:39 +0200"
     },
     "done": true
   },
