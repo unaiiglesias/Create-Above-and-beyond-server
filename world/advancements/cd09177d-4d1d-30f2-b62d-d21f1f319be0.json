@@ -1196,6 +1196,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/skeleton": {
+    "criteria": {
+      "has_rib_bone": "2022-09-16 00:29:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2022-08-26 14:36:40 +0200"
@@ -1955,6 +1961,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2022-08-26 01:25:03 +0200"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2022-09-16 00:29:00 +0200"
     },
     "done": true
   },
