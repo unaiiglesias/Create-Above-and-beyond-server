@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2022-09-17 13:18:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-08-24 18:57:50 +0200"
@@ -369,6 +375,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 19:07:47 +0200"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2022-09-17 13:26:02 +0200"
     },
     "done": true
   },
@@ -1458,6 +1470,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2022-09-17 13:26:02 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2022-08-24 19:52:29 +0200"
@@ -1810,7 +1828,8 @@
     "criteria": {
       "large_plate": "2022-09-11 18:37:08 +0200",
       "tough_handle": "2022-09-11 18:37:59 +0200",
-      "hammer_head": "2022-09-11 18:37:50 +0200"
+      "hammer_head": "2022-09-11 18:37:50 +0200",
+      "ingot": "2022-09-17 13:18:11 +0200"
     },
     "done": false
   },
@@ -2593,6 +2612,12 @@
   "create:recipes/create.base/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2022-08-26 15:28:47 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2022-09-17 13:18:26 +0200"
     },
     "done": true
   },
@@ -4254,6 +4279,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2022-09-17 13:18:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-08-24 19:23:45 +0200"
@@ -4486,6 +4517,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_plank": "2022-09-08 18:48:47 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2022-09-17 13:18:26 +0200"
     },
     "done": true
   },
@@ -5482,6 +5519,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2022-09-17 13:26:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2022-08-26 15:34:01 +0200"
@@ -6065,6 +6108,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-08-24 19:06:01 +0200"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2022-09-17 13:26:02 +0200"
     },
     "done": true
   },

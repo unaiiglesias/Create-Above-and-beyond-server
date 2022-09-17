@@ -468,6 +468,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2022-09-17 13:13:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2022-08-29 23:50:56 +0200"
@@ -1135,6 +1141,12 @@
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_torch": "2022-08-24 18:57:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-09-17 13:19:01 +0200"
     },
     "done": true
   },
@@ -3934,6 +3946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-09-17 13:19:01 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2022-08-24 19:04:34 +0200"
@@ -3982,6 +4000,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-09-17 13:22:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-29 23:52:47 +0200"
@@ -4003,6 +4027,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2022-08-24 19:53:14 +0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/birch_palisade": {
+    "criteria": {
+      "has_log": "2022-09-17 13:19:01 +0200"
     },
     "done": true
   },
