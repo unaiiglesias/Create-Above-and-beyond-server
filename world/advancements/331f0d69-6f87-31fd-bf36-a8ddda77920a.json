@@ -746,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-09-18 14:38:08 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/iron_chisel": {
     "criteria": {
       "has_iron": "2022-08-24 19:04:34 +0200"
@@ -1402,6 +1408,12 @@
     },
     "done": true
   },
+  "buddycards:main/complete_set1": {
+    "criteria": {
+      "card23": "2022-09-18 14:49:31 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-30 01:26:10 +0200"
@@ -1447,6 +1459,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2022-08-24 19:17:42 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2022-09-18 15:00:25 +0200"
     },
     "done": true
   },
@@ -1881,6 +1899,8 @@
       "broad_axe_head": "2022-09-11 18:04:48 +0200",
       "hammer_head": "2022-09-11 17:56:11 +0200",
       "broad_blade": "2022-09-11 18:05:09 +0200",
+      "tool_handle": "2022-09-18 14:57:43 +0200",
+      "pickaxe_head": "2022-09-18 14:57:48 +0200",
       "ingot": "2022-09-01 21:24:11 +0200"
     },
     "done": false
@@ -2718,6 +2738,12 @@
     },
     "done": true
   },
+  "buddycards:main/root": {
+    "criteria": {
+      "pack": "2022-09-18 14:46:23 +0200"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2022-08-24 19:04:34 +0200"
@@ -3535,6 +3561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2022-09-18 14:38:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-08-29 23:30:39 +0200"
@@ -3664,6 +3696,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2022-09-02 01:47:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2022-09-18 14:38:08 +0200"
     },
     "done": true
   },
@@ -3857,6 +3895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-09-18 14:38:08 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2022-08-24 18:52:50 +0200"
@@ -3874,6 +3918,12 @@
       "has_basalt": "2022-08-29 23:47:07 +0200"
     },
     "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_ocean": "2022-09-18 14:38:15 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
@@ -4017,6 +4067,13 @@
       "has_iron_nugget": "2022-08-24 19:04:24 +0200"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "sword": "2022-09-18 15:03:44 +0200",
+      "pickaxe": "2022-09-18 15:00:25 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -5193,6 +5250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2022-09-18 14:38:08 +0200"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/laboratory/fuzzscreen": {
     "criteria": {
       "has_quartz": "2022-08-29 23:50:56 +0200"
@@ -5756,6 +5819,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-29 23:52:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-09-18 14:38:08 +0200"
     },
     "done": true
   },
