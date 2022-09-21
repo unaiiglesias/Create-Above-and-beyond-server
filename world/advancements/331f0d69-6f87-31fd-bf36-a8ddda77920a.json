@@ -5720,6 +5720,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2022-09-21 20:48:54 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2022-08-30 23:17:02 +0200"
@@ -5741,6 +5747,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2022-08-29 23:49:48 +0200"
+    },
+    "done": true
+  },
+  "create:crafter": {
+    "criteria": {
+      "0": "2022-09-21 20:49:50 +0200"
     },
     "done": true
   },
@@ -6020,6 +6032,12 @@
     },
     "done": true
   },
+  "create:pipe_spill": {
+    "criteria": {
+      "0": "2022-09-21 21:04:46 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2022-08-26 20:51:41 +0200"
@@ -6079,6 +6097,12 @@
       "has_blackstone": "2022-08-29 23:52:47 +0200"
     },
     "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "excavator": "2022-09-21 20:18:04 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
