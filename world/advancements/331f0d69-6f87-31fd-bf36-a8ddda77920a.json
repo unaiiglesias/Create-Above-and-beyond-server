@@ -504,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-09-25 21:48:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_lime_dye": "2022-08-29 23:29:57 +0200"
@@ -3985,6 +3991,7 @@
       "minecraft:creeper": "2022-08-24 19:41:26 +0200",
       "minecraft:slime": "2022-08-24 19:21:32 +0200",
       "minecraft:zombified_piglin": "2022-09-01 21:55:57 +0200",
+      "minecraft:witch": "2022-09-25 21:47:19 +0200",
       "minecraft:wither_skeleton": "2022-08-30 00:16:20 +0200",
       "minecraft:zombie": "2022-08-24 18:57:33 +0200"
     },
@@ -5232,6 +5239,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2022-09-25 21:48:49 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2022-08-31 20:48:07 +0200"
@@ -6188,6 +6201,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/fluix": {
+    "criteria": {
+      "certus": "2022-09-25 22:03:14 +0200"
+    },
+    "done": true
+  },
   "xreliquary:recipes/misc/uncrafting/string": {
     "criteria": {
       "has_chelicerae": "2022-08-26 20:38:08 +0200"
@@ -6251,6 +6270,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-08-24 19:45:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2022-09-25 21:48:49 +0200"
     },
     "done": true
   },
