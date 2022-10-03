@@ -626,6 +626,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_birch": {
+    "criteria": {
+      "has_plank": "2022-10-03 20:15:37 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_casing": {
     "criteria": {
       "has_item": "2022-08-26 20:51:24 +0200"
@@ -1000,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-10-03 20:15:37 +0200"
+    },
+    "done": true
+  },
   "create:recipes/food/smelting/bread": {
     "criteria": {
       "has_item": "2022-08-29 23:03:40 +0200"
@@ -1201,6 +1213,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/utrem_jar": {
     "criteria": {
       "has_item": "2022-08-30 01:26:10 +0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/birch_support": {
+    "criteria": {
+      "has_plank": "2022-10-03 20:15:37 +0200"
     },
     "done": true
   },
@@ -2470,6 +2488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-10-03 20:15:37 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2022-08-30 00:27:13 +0200"
@@ -2551,6 +2575,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-24 19:51:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-10-03 20:15:37 +0200"
     },
     "done": true
   },
@@ -3143,6 +3173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-10-03 20:15:37 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourished": "2022-08-31 20:53:17 +0200"
@@ -3212,6 +3248,12 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2022-08-24 19:22:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_plank": "2022-10-03 20:15:37 +0200"
     },
     "done": true
   },
@@ -3915,6 +3957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2022-10-03 20:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-08-24 18:49:02 +0200"
@@ -4032,6 +4080,12 @@
   "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2022-09-02 01:38:37 +0200"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/birch_seat": {
+    "criteria": {
+      "has_plank": "2022-10-03 20:15:37 +0200"
     },
     "done": true
   },
@@ -4417,6 +4471,12 @@
   "appliedenergistics2:main/presses": {
     "criteria": {
       "logic": "2022-08-31 20:44:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-10-03 20:15:37 +0200"
     },
     "done": true
   },
@@ -4913,6 +4973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-10-03 20:15:37 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2022-08-26 20:51:41 +0200"
@@ -5130,6 +5196,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2022-08-24 19:11:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-10-03 20:15:37 +0200"
     },
     "done": true
   },
@@ -5526,6 +5598,12 @@
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2022-09-01 20:48:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2022-10-03 20:15:37 +0200"
     },
     "done": true
   },
@@ -6170,6 +6248,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-26 20:53:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-10-03 20:15:37 +0200"
     },
     "done": true
   },
